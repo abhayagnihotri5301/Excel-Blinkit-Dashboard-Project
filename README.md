@@ -17,7 +17,7 @@ It highlights **KPIs, trends, and insights** that help in making better business
 ---
 
 ## 🛠 Tools & Features
-- **Excel (Desktop / Online)**  
+- **Excel (Online)**  Its limited 
 - Pivot Tables & Pivot Charts  
 - Slicers for interactive filtering  
 - Conditional formatting for KPIs  
