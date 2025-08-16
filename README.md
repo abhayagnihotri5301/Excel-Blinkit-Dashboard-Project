@@ -26,7 +26,7 @@ It highlights **KPIs, trends, and insights** that help in making better business
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](image/BlinkitDashboard.png)
+![Dashboard Screenshot](image/Blinkit-Dashboard.png)
 
 
 
